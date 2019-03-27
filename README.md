@@ -5,7 +5,7 @@ A classic arcade game based on frogger.
 Learn more about frogger <https://en.wikipedia.org/wiki/Frogger>.
 
 ## Installation
-Unzip the file then open the Index.html and start playing.
+Clone or Download the Repository then open the Index.html and start playing.
 
 
 ## How to play
